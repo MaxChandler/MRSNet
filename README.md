@@ -13,7 +13,7 @@ This framework provides methods to generate datasets from loaded LCModel ".BASIS
 * [PyGamma](https://scion.duhs.duke.edu/vespa/gamma/wiki/PyGamma) - Another MRS simulation toolbox
 * [VeSPA](https://scion.duhs.duke.edu/vespa/project) - Versatile Simulation, Pulses and Analysis 
 ### Data sources
-* [Swansea Benchmark Dataset](REF?) - Benchmark phantom datasets collected at Swansea University's 3T Siemens scanner.
+* [Swansea Benchmark Dataset](https://langbein.org/gabaphantoms_20190815) - Benchmark phantom datasets collected at Swansea University's 3T Siemens scanner.
 * [Purdue LCModel basis sets](http://purcell.healthsciences.purdue.edu/mrslab/basis_sets.html) - Data source for the LCModel basis sets
 
 ## Getting Started
