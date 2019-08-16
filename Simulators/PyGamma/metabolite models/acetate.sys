@@ -1,0 +1,12 @@
+SysName (2) : acetate
+NSpins  (0) : 3  - Chemical shifts were measured in H2O solution.
+Iso(0) (2) : 1H
+Iso(1) (2) : 1H
+Iso(2) (2) : 1H
+PPM(0) (1) : 1.904
+PPM(1) (1) : 1.904
+PPM(2) (1) : 1.904
+J(0,1) (1) : 0.0
+J(0,2) (1) : 0.0
+J(1,2) (1) : 0.0
+Omega  (1) : 64.0

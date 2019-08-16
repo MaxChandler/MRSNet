@@ -1,0 +1,17 @@
+SysName (2) : alanine
+NSpins  (0) : 4  - Chemical shifts were measured in H2O solution.
+Iso(0) (2) : 1H
+Iso(1) (2) : 1H
+Iso(2) (2) : 1H
+Iso(3) (2) : 1H
+PPM(0) (1) : 1.4667
+PPM(1) (1) : 1.4667
+PPM(2) (1) : 1.4667
+PPM(3) (1) : 3.7746
+J(0,1) (1) : -14.366
+J(0,2) (1) : -14.366
+J(0,3) (1) : 7.234
+J(1,2) (1) : -14.366
+J(1,3) (1) : 7.234
+J(2,3) (1) : 7.234
+Omega  (1) : 64.0

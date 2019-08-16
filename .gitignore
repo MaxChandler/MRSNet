@@ -1,0 +1,7 @@
+*.pyc
+/venv/
+/Basis/
+.idea/
+models/incomplete/
+Datasets/Benchmark/
+Datasets/

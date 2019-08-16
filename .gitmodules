@@ -1,0 +1,3 @@
+[submodule "Simulators/FIDA/FID-A"]
+	url = git@github.com:CIC-methods/FID-A.git
+	path = Simulators/FIDA/FID-A
