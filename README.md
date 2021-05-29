@@ -118,12 +118,51 @@ Loading of non-Siemens DICOM files has not been tested.
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
+## Locations
 
-## License
+The code is developed and maintained on [qyber\\black](https://qyber.black)
+at https://qyber.black/mrs/code-mrsnet
 
-This project is licensed under the GNP [AGPLv3 License](https://choosealicense.com/licenses/agpl-3.0/), see the [LICENSE](LICENSE) file for details.
+This code is mirrored at
+* https://github.com/MaxChandler/MRSNet
+
+The mirrors are only for convenience, accessibility and backup.
+
+## People
+
+* [Max Chandler](https://qyber.black/max), [School of Computer Science and Informatics](https://www.cardiff.ac.uk/computer-science), [Cardiff University](https://www.cardiff.ac.uk/)
+* [Frank C Langbein](https://qyber.black/xis10z), [School of Computer Science and Informatics](https://www.cardiff.ac.uk/computer-science), [Cardiff University](https://www.cardiff.ac.uk/); [langbein.org](https://langbein.org/)
+* [Sophie M Shermer](https://qyber.black/lw1660), [Physics](https://www.swansea.ac.uk/physics), [Swansea University](https://www.swansea.ac.uk/)
+* [Christopher W Jenkins](https://qyber.black/chris), [Physics](https://www.swansea.ac.uk/physics) and [Centre for Nanohealth](https://www.swansea.ac.uk/nanohealth/facilities/) and [Clinical Imaging Unit](https://www.swansea.ac.uk/medicine/research/researchfacilities/jointclinicalresearchfacility/clinicalimagingfacility/), [Swansea University](https://www.swansea.ac.uk/); [Cardiff University Brain Research Imaging Centre (CUBRIC)](https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre)
 
 ## Acknowledgments
 
 * Brian Soher (VeSPA/PyGamma) for help locating the PyGamma pulse sequence code for MEGA-PRESS, PRESS and STEAM.
 
+## Contact
+
+For any general enquiries relating to this project, [send an e-mail](mailto:gitlab+mrs-code-mrsnet-38-issue-@qyber.black).
+
+## Citation
+
+M Chandler, C Jenkins, SM Shermer, FC Langbein. **Code - MRSNet**. Version 1.0. _FigShare_, Softrware, 16th August 2019.
+[[10.6084/m9.figshare.9824417.v1]](https://doi.org/10.6084/m9.figshare.9824417.v1)
+[[DEV:https://qyber.black/mrs/code-mrsnet]](https://qyber.black/mrs/code-mrsnet)
+[[MIRROR:https://github.com/MaxChandler/MRSNet]](https://github.com/MaxChandler/MRSNet)
+
+## License
+
+Copyright (C) 2019, M Chandler.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
